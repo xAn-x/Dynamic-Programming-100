@@ -1,0 +1,54 @@
+@ Very Imp Question and Concept ->https://leetcode.com/problems/unique-paths/
+	explanation=> https://www.youtube.com/watch?v=t_f0nwwdg5o&t=0s
+	
+@ Extremely IMP Question and Concept -> https://leetcode.com/problems/cherry-pickup/submissions/
+	explanation(Back-tracking)=>https://www.youtube.com/watch?v=juJ0j-Otgko
+	explanation(D.P)=>https://www.youtube.com/watch?v=ZV0sUzfA7Eg
+	
+@ Extremely Imp Question ->https://leetcode.com/problems/cherry-pickup-ii/submissions/
+	explanation=>https://www.youtube.com/watch?v=QGfn7JeXK54
+	
+@ Imp to look up to -> // https://www.codingninjas.com/codestudio/problems/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum_842494?
+	explanation->https://www.youtube.com/watch?v=GS_OqZb2CWc&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY&index=17
+	explanation-2-> https://www.youtube.com/watch?v=-GtpxG6l_Mc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=10
+
+@ IMP -> https://leetcode.com/problems/target-sum/submissions/
+	explanation-> https://www.youtube.com/watch?v=Hw6Ygp3JBYw&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=12
+	
+@ IMP Observation -> https://leetcode.com/problems/target-sum/
+
+@ IMP QUESTION -> https://nados.io/question/count-binary-strings?zen=true
+
+@ IMP QUESTION(cover both D.P and backtracking concept) -> https://leetcode.com/problems/decode-ways/
+
+@ IMP It has Tricky-Tabulation  -> https://nados.io/question/count-encodings?zen=true
+	explanation -> https://www.youtube.com/watch?v=jFZmBQ569So&list=PL-Jc9J83PIiG8fE6rj9F5a6uyQ5WPdqKy&index=20
+	
+@ IMP -> https://practice.geeksforgeeks.org/problems/count-subsequences-of-type-ai-bj-ck4425/1/#
+	explanation -> https://www.youtube.com/watch?v=IV9pbZsi5cc&list=PL-Jc9J83PIiG8fE6rj9F5a6uyQ5WPdqKy&index=21
+
+@ IMP Concepts -> https://nados.io/question/paint-fence?zen=true	
+	explanation(tabulation) ->https://www.youtube.com/watch?v=O3Rn-Kjr0p0 
+@ Cheeky-Concept->https://practice.geeksforgeeks.org/problems/count-the-number-of-ways-to-tile-the-floor-of-size-n-x-m-using-1-x-m-size-tiles0509/1/
+	explanation -> https://www.youtube.com/watch?v=_c_R-uIi-zU&list=PL-Jc9J83PIiG8fE6rj9F5a6uyQ5WPdqKy&index=27
+
+@ Longest Common Substring Using Longest Common Subsequence->https://www.youtube.com/watch?v=_wP9mWNPL5w&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY&index=28
+	#-IMP for understanding LCS Tabulation
+	
+@ Longest Palindromic Substring-> https://leetcode.com/problems/longest-palindromic-subsequence/
+	#-reference->https://www.youtube.com/watch?v=6i_T5kkfv4A&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY&index=29
+	
+@ Longest Palindromic Substring without DP->https://leetcode.com/problems/longest-palindromic-substring/
+	#-reference->https://www.youtube.com/watch?v=XYQecbcd6_c
+	
+@ Minimum Operation to make string same-> https://www.codingninjas.com/codestudio/problems/can-you-make_4244510?source=youtube&campaign=striver_dp_videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_dp_videos&leftPanelTab=1
+
+@ Minimum Deletion to make string same => same as Minimum operation to make string same
+	#- link=>https://leetcode.com/problems/delete-operation-for-two-strings/submissions/
+	
+@ Very Imp->https://leetcode.com/problems/shortest-common-supersequence/
+	# reference->https://www.youtube.com/watch?v=xElxAuBcvsU&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY&index=32
+	
+@ Very IMP->https://leetcode.com/problems/edit-distance/submissions/
+
+@ Very IMP->All stocks buy and sell problem-> 1,2,3,4,cooldown,fee 
